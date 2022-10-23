@@ -108,10 +108,16 @@ body{
 
 .third-section{
     background-color: #1F2937;
-    padding: 100px  300px;
+   
+    padding: 50px  300px;
     font-size: 30px;
     color: lightgrey;
+    margin: 20px 50px;
+    border-radius: 100px;
 }
+
+
+
 .third-section .quoted-person{
     text-align: right;
     color:white;
@@ -119,14 +125,18 @@ body{
 
 
 .fourth-section .box{
-  padding: 16px;
+  padding: 32px;
   background-color: #1F2937;
   display:flex;
   justify-content: center;
-  margin: 20px 300px;
-  border-radius: 100px;
+  margin: 20px 0px;
+  border-radius: 50px;
   align-items: center;
+
+  
 }
+
+
 
 .tiles{
     max-width: 400px;
