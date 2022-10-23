@@ -1,0 +1,16 @@
+.second-section{
+    text-align: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    background-color: aquamarine;
+    justify-content:  center;
+    gap: 52px;
+    
+}
+
+.tiles{
+    max-width: 200px;
+}
