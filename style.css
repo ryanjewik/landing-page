@@ -55,7 +55,8 @@ body{
 
  .top-bar .header{
     font-weight: 700;
-    font-size: 25px;
+    font-size: 30px;
+    color: white;;
  }
 
 .top-bar{
@@ -66,6 +67,7 @@ body{
     background-color: slategray;
     margin-bottom: 10px;
     border-radius: 100px;
+    font-size: 20px;
     
 }
 
